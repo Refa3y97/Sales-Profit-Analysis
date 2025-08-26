@@ -1,4 +1,4 @@
-# Sales × Profit Analysis
+# Sales × Profit Overview
 
 This Excel project analyzes company sales and profitability.  
 It provides insights into total sales, total profit, orders, top products, customers, and regional trends.
